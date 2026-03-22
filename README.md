@@ -1,6 +1,10 @@
 # esp32 room mapping using ultrasonic sensor and speed sensor
 map the room using ESP32 and ultrasonic sensor and plot it in Processing IDE 
 
+************ caution ***********
+please dont try the random codes present in internet for driving the L298N and motors as it has created smoke in my 4 wheeled robot, 
+use PWM less than 200 for L298N motor driver so that it doesnt push more current into motors.
+
 
 this project uses esp32 , ultrasonic sensor , speed sensors and 4 wheeles robot for mapping room using processing IDE through WIFI connection.
 credits goes to dronebotworkshop website, the youtube video has ckear explanation of the code he has written, but the code present in his website 
