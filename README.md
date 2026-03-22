@@ -16,6 +16,7 @@ credits goes to dronebotworkshop website, the youtube video has ckear explanatio
 did nt work as he failed to declare outputs in the setup function. so i modified it to make it work.
 
 https://dronebotworkshop.com/robot-car-with-speed-sensors/
+
 https://www.youtube.com/watch?v=oQQpAACa3ac
 
 pin usage in esp32 dev kit module v1
