@@ -1,5 +1,5 @@
 # esp32 room mapping using ultrasonic sensor ,L298N and speed sensor
-map the room using ESP32 and ultrasonic sensor and plot it in Processing IDE 
+map the room using ESP32 ,speed sensors, L298N and ultrasonic sensor and plot it in Processing IDE. 
 
 **************************************caution *************************************************
 please dont try the random codes present in internet for driving the L298N and motors as it has created smoke in my 4 wheeled robot, 
