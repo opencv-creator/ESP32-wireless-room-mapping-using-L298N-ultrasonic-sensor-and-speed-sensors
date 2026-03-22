@@ -1,4 +1,4 @@
-# esp32 wireless room mapping using ultrasonic sensor ,L298N and speed sensor
+# ESP32 DEV KIT V1 wireless room mapping using ultrasonic sensor ,L298N and speed sensor
 map the room using ESP32 dev kit module v1 ,speed sensors, L298N and ultrasonic sensor and plot it wirelessly in Processing IDE. 
 
 **************************************caution *************************************************
